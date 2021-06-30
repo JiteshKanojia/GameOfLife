@@ -13,5 +13,4 @@ Game of Life is a simple simulation of cells where each cell is bound by 4 Rules
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-###Example
-<img src="https://drive.google.com/file/d/1ynVHIxNWWy6Zs1bxLEtt0cCMrv34M_pM/view?usp=sharing" width="453" height="226"/>
+<img src="https://i.postimg.cc/BZzbPdNP/Screenshot-2.png" width="453" height="226"/>
