@@ -2,7 +2,8 @@
 John Conway's Game of Life written in Python.
 
 A small project I made to learn about some cellular automaton while developing python skills and learning git 😃.
-Game of Life is a simple simulation of cells where each cell is bound by 4 Rules.
+Game of Life is a simple simulation of cells where each cell is bound by 4 Rules. 
+Game of Life is Turing complete. 
 Any Issues or Improvements are welcome!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width="250" height="180"/>
