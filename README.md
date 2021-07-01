@@ -20,3 +20,5 @@ Any Issues or Improvements are welcome!
 
 ### Example
 <img src="https://i.postimg.cc/BZzbPdNP/Screenshot-2.png" width="453" height="226"/>
+
+> Rip John Conway :pray:
