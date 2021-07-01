@@ -8,6 +8,7 @@ Any Issues or Improvements are welcome!
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" width="250" height="180"/>
 
 [Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 [Youtube Video by Numberphile](https://www.youtube.com/watch?v=R9Plq-D1gEk)
 
 
